@@ -7,7 +7,11 @@ bbbdbd
 this line is added by aishwarya
 new line added
 devops class
+<<<<<<< HEAD
 merge conflict 
+=======
+
+>>>>>>> aishwarya
 this is devops
 hhhhijjjh
 jjjhdhd
